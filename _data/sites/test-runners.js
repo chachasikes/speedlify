@@ -12,15 +12,11 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://eslint.org/",
-		"https://qunitjs.com/",
-		"https://karma-runner.github.io/latest/index.html",
-		"https://gulpjs.com/",
-		"https://webhint.io/",
-		"https://gruntjs.com/",
-		"https://theintern.io/",
-		"https://istanbul.js.org/",
-		"https://webdriver.io/",
-		"https://mochajs.org/"
+	 "https://150.parks.ca.gov",
+    "https://abag.ca.gov",
+    "https://abc.ca.gov",
+    "https://abcab.ca.gov",
+    "https://accepttest.medi-cal.ca.gov",
+    "https://access.ca.gov"
 	]
 };
